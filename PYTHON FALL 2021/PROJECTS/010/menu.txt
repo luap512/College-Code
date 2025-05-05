@@ -1,0 +1,7 @@
+Bubba Beef Burger, 2.00
+Cubba Chicken Burger, 1.00
+Suppa Shrimp Burger, 1.00
+Huba Cheese Burger, 1.00
+Fries, 1.00
+Onion Rings, 1.00
+Drinks, 1.00
