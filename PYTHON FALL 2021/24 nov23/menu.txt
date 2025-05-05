@@ -1,0 +1,6 @@
+Chicken, 100
+Food, 200
+Pizza, 30
+Poop, 30
+Money, 100
+Water, 70
